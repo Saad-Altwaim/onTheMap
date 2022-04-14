@@ -1,4 +1,6 @@
 # onTheMap
+
+NOTE : you will need a udacity account  if you want to use this App 
 this IOS App use API provide by udacity.com And because of that i can login to my udacity account 
 
 the app shows information posted by other students On the Map . The map will contain pins that show the locations was added by other students 
